@@ -7,7 +7,7 @@
 
 <h2>Introduction</h2>
 
-- <b>Hi, my name is Ethan, and I’m a student with a strong passion for design, technology, and data. I’ve been learning UX/UI design and have already created some prototypes using Figma, which helped me understand how to design user-friendly digital experiences. I’m also eager to learn coding so I can turn my designs into real, working products. In addition, I’m interested in data analysis and want to explore how data can improve user experiences and guide better design decisions. I’m excited to keep learning and growing in all these areas.</b>
+- <b>Hi, my name is Ethan, and I’m a student with a strong passion for design, technology, and data. I’m excited to keep learning and growing in all these areas.</b>
 
 <h2>Usage instructions</h2>
 - <b>TEAM ADL - AVILA, DORADO, LANGRES
